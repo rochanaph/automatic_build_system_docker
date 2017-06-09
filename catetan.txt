@@ -1,0 +1,4 @@
+build sistem
+
+- agar kita tidak perlu push bentuk jadinya(misal .apk nya atau .jar nya), jadi docker yang akan mengompile sourcenya.
+- memudahkan sharing source
